@@ -1,4 +1,4 @@
-# GMQL-Importer [![Build Status](https://travis-ci.org/DEIB-GECO/GMQL-Importer.svg?branch=master)](https://travis-ci.org/DEIB-GECO/GMQL-Importer)
+# GMQL-Importer 
 
 ## Synopsis
 
